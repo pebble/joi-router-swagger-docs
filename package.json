@@ -1,0 +1,17 @@
+{
+  "name": "joi-router-swagger-docs",
+  "version": "1.0.0",
+  "description": "Swagger doc generator for koa-joi-router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "joi": "^9.0.4",
+    "joi-to-json-schema": "^2.2.0",
+    "lodash": "^4.15.0",
+    "path-to-regexp": "^1.5.3"
+  }
+}
